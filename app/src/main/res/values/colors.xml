@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#288FEB</color>
+    <color name="colorPrimaryDark">#0968BD</color>
+    <color name="light_blue">#70288FEB</color>
+
+
+    <color name="grey">#9E9E9E</color>
+    <color name="light_grey">#B7B3B3</color>
+    <color name="blue">#0C6C95</color>
+    <color name="pale_grey">#ACACAC</color>
+    <color name="light_black_text_colour">#434343</color>
+    <color name="light_grey_colour_text">#C9C5C5</color>
+    <color name="grey_text">#A8A6A6</color>
+    <color name="grey_text_dark">#535353</color>
+    <color name="red">#CC0707</color>
+    <color name="yellow">#FBB826</color>
+    <color name="light_yellow">#f2e650</color>
+    <color name="black_lite">#414141</color>
+    <color name="green">#1C890A</color>
+    <color name="new_grey">#898989</color>
+    <color name="violet">#0D0A9E</color>
+    <color name="black_new">#1C1B1B</color>
+    <color name="black_new1">#212121</color>
+    <color name="grey_text_dark_new">#5B5B5B</color>
+    <color name="pink">#E91E63</color>
+    <color name="light_pink">#9FE91E63</color>
+    <color name="dark_blue">#002040</color>
+
+    <color name="event_color_01">#59DBE0</color>
+    <color name="event_color_02">#F57F68</color>
+    <color name="event_color_03">#87D288</color>
+    <color name="event_color_04">#F8B552</color>
+    <color name="blue_dark">#064086</color>
+
+
+    <color name="toast_txtColour_green">#2DC76D</color>
+    <color name="light_green">#E9F9F0</color>
+
+    <color name="toast_txtColour_red">#D8000C</color>
+    <color name="light_red">#FDE1E1</color>
+
+</resources>
